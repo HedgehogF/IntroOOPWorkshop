@@ -46,3 +46,7 @@ Golden Retriever
 ```
 
 As you cand see, the `Dog` subclass inherits the `__init__` and `speak` methods from the `Animal` superclass, and we can also add new attributes and override the existing ones in the subclass.
+
+
+Another Example:
+![Image2](/person/uml_diagram.png)
