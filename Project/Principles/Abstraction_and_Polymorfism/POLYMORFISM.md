@@ -47,3 +47,5 @@ for shape in shapes:
 In this example, we define two concrete classes Circle and Rectangle that inherit from the abstract class Shape. Each class provides its own implementation of the area and perimeter methods based on its specific shape.
 
 We then create a list of shapes that contains an instance of Circle and an instance of Rectangle. We can then iterate over the list and call the area and perimeter methods on each shape, without needing to know the specific class of each shape. This demonstrates the idea of duck typing and dynamic polymorphism, where objects that have the same interface can be used interchangeably, regardless of their actual class or type.
+
+BACK TO [README](/README.md)

@@ -121,3 +121,5 @@ In this example, the `public_property` and `public_method` are denoted as public
 Public methods and properties are the primary way to interact with an object from outside the class. They are the interface to the object and allow you to get or set the object's state, call its behavior, and interact with its data.
 
 It's important to note that while public methods and properties are accessible from outside the class, it is still important to design them carefully. You should ensure that they provide a safe and consistent interface for interacting with the object and that they do not expose any implementation details that could break encapsulation.
+
+BACK TO [README](/README.md)

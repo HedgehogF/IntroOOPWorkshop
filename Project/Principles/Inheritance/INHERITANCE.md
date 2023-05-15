@@ -50,3 +50,6 @@ As you cand see, the `Dog` subclass inherits the `__init__` and `speak` methods 
 
 Another Example:
 ![Image2](/Project/Principles/Inheritance/person/uml_diagram.png)
+
+
+BACK TO [README](/README.md)

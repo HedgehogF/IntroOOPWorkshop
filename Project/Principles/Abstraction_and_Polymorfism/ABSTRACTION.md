@@ -25,3 +25,5 @@ In this example, the `Shape` class is an abstract class that defines two **abstr
 Interfaces, on the other hand, are similar to abstract classes but contain only abstract methods. They are used to define a common interface that all classes implementing the interface must adhere to. In Python, there is no separate keyword for interfaces, but you can achieve the same effect by defining an abstract base class that contains only abstract methods.
 
 Abstraction allows you to design more flexible and extensible code by separating the interface from the implementation details. This makes it easier to change the implementation details without affecting the code that uses the interface, and it also makes it easier to extend the code with new functionality by creating new subclasses or implementing new interfaces.
+
+BACK TO [README](/README.md)
