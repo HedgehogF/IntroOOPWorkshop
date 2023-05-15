@@ -19,7 +19,7 @@ class Human:
     pass
 ```
 
-![class image](/TODO)
+![class image](/Project/class_object.svg)
 
 ## Variables
 

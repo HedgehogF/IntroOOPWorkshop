@@ -33,7 +33,7 @@ dog = Dog("Fido", "Golden Retriever")
 dog.speak()
 print(dog.breed)
 ```
-![Image](\assets\Inheritance.png)
+![Image](/Project/Principles/Inheritance/assets/Inheritance.png)
 
 In this example, we define a superclass `Animal` with a constructor and a `speak` method.
 We then define a subclass `Dog` that inherits form `Animal` and adds a new `breed` attribute and overrides the `speak` method. We create an instance of the superclass and call its `speak` method, and then create an instance of the subclass and call its `speak` method and print its `breed` attribute.
@@ -49,4 +49,4 @@ As you cand see, the `Dog` subclass inherits the `__init__` and `speak` methods 
 
 
 Another Example:
-![Image2](/person/uml_diagram.png)
+![Image2](/Project/Principles/Inheritance/person/uml_diagram.png)
