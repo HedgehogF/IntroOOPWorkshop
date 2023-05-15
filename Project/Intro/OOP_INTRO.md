@@ -40,11 +40,11 @@ class Human:
         description = f"My name is {self.first_name} {self.last_name}  and I am {self.age} years old."
         print(description)
 ```
-> **tribe** variable is a class variable
+> **tribe** variable is a **class variable**
 
 > **first_name**, **last_name** and **age** (which start with self.) variables are **Instance Variables**
  
-> **description** variable is local variable
+> **description** variable is **local variable**
 > 
 ## Functions vs Methods
 
